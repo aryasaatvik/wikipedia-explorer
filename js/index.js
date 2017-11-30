@@ -6,7 +6,7 @@ $(document).ready(function() {
 // https://www.mediawiki.org/wiki/API:Main_page
 
 // API Endpoint https://en.wikipedia.org/w/api.php
-var search = "";
+var search = "query";
 var wikipediaAPI =
   "https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=" +
   encodeURIComponent(search) +

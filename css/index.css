@@ -1,6 +1,18 @@
 .jumbotron {
   margin-top: 25px;
 }
+#title {
+  font-family: "Poiret One", cursive;
+  text-align: center;
+}
+#wikipedia-image {
+  padding: 25px;
+  width: 250px;
+  height: 250px;
+}
+#search {
+  padding-top: 50px;
+}
 #searchField {
   width: 60%;
 }
