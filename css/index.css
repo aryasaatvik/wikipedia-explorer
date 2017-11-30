@@ -1,0 +1,13 @@
+.jumbotron {
+  margin-top: 25px;
+}
+#searchField {
+  width: 60%;
+}
+
+.searchResult {
+  margin: 10px;
+}
+.searchResult:hover {
+  background-color: rgba(0, 0, 0, 0.2);
+}
